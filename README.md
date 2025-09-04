@@ -1,3 +1,3 @@
-# Numericki Algoritmi 2019-2020
+# Numerical Algorithms 2019-2020
 
-Rješenja zadataka sa zadaća na predmetu Numerički algoritmi.
+Solved exercises from the **Numerical Algorithms** course.
